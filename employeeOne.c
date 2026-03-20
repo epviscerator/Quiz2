@@ -41,3 +41,10 @@ PtrToEmployee searchEmployeeByName(PtrToConstEmployee ptr, int tableSize, char *
     return NULL; 
 
 } 
+
+// same as above again but this time searching by phone number
+
+
+// same as above yet again but now by incom wowie
+
+
